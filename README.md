@@ -10,4 +10,4 @@ for v1 version, you need change in main.py:
 - line no.8: your APIkey in openweathemap.orp 
 - line 106: Craiova with your city
 
-_Already I changed in main.py file line no.112 to solve local time issue (+3 in my case):  hours=(time.localtime()[3]+int(weather_data["timezone"] / 3600))%24 _
+Already I changed in main.py file line no.112 to solve local time issue (+3 in my case):  hours=(time.localtime()[3]+int(weather_data["timezone"] / 3600))%24
