@@ -109,7 +109,7 @@ while True:
     rh=weather_data["main"]["humidity"]
  
     # get time
-    hours=time.localtime()[3]+int(weather_data["timezone"] / 3600)
+    hours=(time.localtime()[3]+int(weather_data["timezone"] / 3600))%24
     mins=time.localtime()[4]
  
     # LCD print
