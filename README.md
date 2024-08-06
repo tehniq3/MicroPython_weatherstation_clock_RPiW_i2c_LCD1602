@@ -7,7 +7,7 @@ installed firmware as at https://projects.raspberrypi.org/en/projects/getting-st
 
 for v1 version or v2 version, you need change in main.py:
 - line no.7: your Wi-Fi network name and password
-- line no.8: your APIkey in openweathemap.orp 
+- line no.8: your APIkey in openweathemap.org 
 - line 106: Craiova with your city
 
 Already I changed in main.py file line no.112 to solve local time issue (+3 in my case):  hours=(time.localtime()[3]+int(weather_data["timezone"] / 3600))%24
