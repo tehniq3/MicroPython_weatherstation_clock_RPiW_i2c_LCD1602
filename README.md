@@ -5,7 +5,7 @@ used Thonny IDE as at https://randomnerdtutorials.com/getting-started-thonny-mic
 
 installed firmware as at https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3
 
-for v1 version, you need change in main.py:
+for v1 version or v2 version, you need change in main.py:
 - line no.7: your Wi-Fi network name and password
 - line no.8: your APIkey in openweathemap.orp 
 - line 106: Craiova with your city
