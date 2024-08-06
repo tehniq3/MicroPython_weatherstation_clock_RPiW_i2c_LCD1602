@@ -11,3 +11,5 @@ for v1 version or v2 version, you need change in main.py:
 - line 106: Craiova with your city
 
 Already I changed in main.py file line no.112 to solve local time issue (+3 in my case):  hours=(time.localtime()[3]+int(weather_data["timezone"] / 3600))%24
+
+For version no.2 I used librar from https://github.com/Guitarman9119/Raspberry-Pi-Pico- !
