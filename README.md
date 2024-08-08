@@ -5,6 +5,12 @@ used Thonny IDE as at https://randomnerdtutorials.com/getting-started-thonny-mic
 
 installed firmware as at https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3
 
+other useful info: https://randomnerdtutorials.com/projects-raspberry-pi-pico/
+
+![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil5gJXyv9T17ok5rb63Mfo6C1IBHG_IsvHhO8xzbZy_chHft5jRu0zATV-FepKYvg5JqyE9GqgMcJTwAQfToS2WuQ_8T8dbeLVi_MMS0GfuyPGjYdEODjpoZY6wgXEQASJIqIjQDVOPidBwOjn8Z2Mdrp-EtEm13SVdClQd4swbeTyMZ2nplezY8j658pe/s320/Raspberry-Pi-Pico-W-I2C-LCD.jpg)
+
+1st article: http://nicuflorica.blogspot.com/2024/08/ceas-cu-date-meteo-rpi-pico-w-si-afisaj.html
+
 for v1 version or v2 version, you need change in main.py:
 - line no.7: your Wi-Fi network name and password
 - line no.8: your APIkey in openweathemap.org 
