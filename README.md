@@ -8,6 +8,7 @@ installed firmware as at https://projects.raspberrypi.org/en/projects/getting-st
 other useful info: https://randomnerdtutorials.com/projects-raspberry-pi-pico/
 
 ![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil5gJXyv9T17ok5rb63Mfo6C1IBHG_IsvHhO8xzbZy_chHft5jRu0zATV-FepKYvg5JqyE9GqgMcJTwAQfToS2WuQ_8T8dbeLVi_MMS0GfuyPGjYdEODjpoZY6wgXEQASJIqIjQDVOPidBwOjn8Z2Mdrp-EtEm13SVdClQd4swbeTyMZ2nplezY8j658pe/s320/Raspberry-Pi-Pico-W-I2C-LCD.jpg)
+![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIfKmHK60sE1x8mfg9HwNRGQOKhQ52EciZOX6ki8Q_6U6rBvnU00ojVfY93Y1FaMNI0_OUrArg3OBCUCziMERPGEUK4DICKvqRTFpkOpt-xzuZNvje0Xk3eqkR2_WRdOZJrKd1svdCdTfpulzsX_wxN4UQE8uXXy2ie-LZ4RCl32TGC5flN4KU0X3pbFeq/s4608/IMG_20240804_201715.jpg)
 
 1st article: http://nicuflorica.blogspot.com/2024/08/ceas-cu-date-meteo-rpi-pico-w-si-afisaj.html
 
