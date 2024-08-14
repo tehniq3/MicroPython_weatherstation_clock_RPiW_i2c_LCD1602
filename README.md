@@ -12,6 +12,8 @@ other useful info: https://randomnerdtutorials.com/projects-raspberry-pi-pico/
 
 1st article: http://nicuflorica.blogspot.com/2024/08/ceas-cu-date-meteo-rpi-pico-w-si-afisaj.html
 
+2nd article: https://nicuflorica.blogspot.com/2024/08/ceas-cu-date-meteo-rpi-pico-w-si-afisaj_14.html
+
 for v1 version or v2 version, you need change in main.py:
 - line no.7: your Wi-Fi network name and password
 - line no.8: your APIkey in openweathemap.org 
